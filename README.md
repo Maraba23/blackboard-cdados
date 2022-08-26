@@ -1,4 +1,7 @@
 <h1>Sistema de Peer-Review Insper</h1>
+<h1>White-Label de Peer-Review<h1>
+<br><br>
+<h3>Requisitos:<h3>
 <br>
 <ul>
 <li>Sistema de autenticação Aluno - Professor - Revisor</li>
